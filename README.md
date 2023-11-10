@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rhorkizz
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning programing
+- 🌱 I’m currently learning HTML , CSS and JavaScript.
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me  twumrockson5@gmail.com
 
