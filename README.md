@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rhorkizz
+- 👋 Hi, I’m @Rockson
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning HTML , CSS and JavaScript.
 - 💞️ I’m looking to collaborate on anything
